@@ -1,0 +1,21 @@
+form { 
+    margin-top: 0em;
+    padding-top:100px;
+    padding-left: 550px;
+  }
+  *{
+      background-color:black;
+  }
+  #sub
+  {
+      background-color: whitesmoke;
+  }
+  #b,#f
+  {
+      color:rgb(40, 94, 138);
+      font-weight: bolder;
+  }
+  #f
+  {
+    font-size:50px;
+  }
