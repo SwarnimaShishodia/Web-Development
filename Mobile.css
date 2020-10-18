@@ -1,0 +1,18 @@
+body {
+    height: 100%;
+  }
+  section {
+    font-size:30px;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+
+  }
+  #a {
+    background: rgb(89, 105, 141);
+  }
+  #b {
+    background: deepskyblue;
+  }
